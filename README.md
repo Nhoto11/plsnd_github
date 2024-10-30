@@ -17,3 +17,4 @@ byshare.py
 ### Credits
 
 ### Additional Changes to Documentation
+### Refactor code
